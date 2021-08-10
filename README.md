@@ -1,1 +1,1 @@
-https://learningfront.github.io/
+https://learningfront.github.io/reactquiz/
